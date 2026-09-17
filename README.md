@@ -1,14 +1,6 @@
 # Hi, I'm Egoriy Monastyrev 👋  
-**Master’s Student · Computational Technologies**  
+**Master’s Student · Computational Technologies · NEFU**  
 Scientific Computing · Numerical Methods · Scientific ML
-
----
-
-## 🔬 Research Focus
-Numerical methods for PDEs + machine learning for scientific computing.
-
-**Interests:**  
-FEM · GMsFEM · Inverse Problems · PINNs / FBPINNs · Neural Operators · Multiscale Modeling
 
 ---
 
@@ -24,12 +16,12 @@ FEM · GMsFEM · Inverse Problems · PINNs / FBPINNs · Neural Operators · Mult
 ## 🛠️ Stack
 **Scientific Computing:** Python · NumPy · SciPy · FEniCSx/DOLFINx · PETSc  
 **ML:** JAX · PyTorch · TensorFlow  
-**Methods:** FEM · GMsFEM · PINNs · FBPINNs · Inverse Problems
+**Methods:** FEM · PINNs · FBPINNs · Inverse Problems
 
 ---
 
 ## 🌱 Exploring
-FNO · Operator Learning · FNO + FEM · Inverse Scattering
+FEM · Inverse Scattering · Spectral Analysis · Spectral Neural Operator
 
 ---
 
