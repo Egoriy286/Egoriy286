@@ -1,29 +1,26 @@
-# Hi, I'm Egoriy Monastyrev 👋  
-**Master’s Student · Computational Technologies · NEFU**  
-Scientific Computing · Numerical Methods · Scientific ML
+# Hi, I'm Egoriy Monastyrev 👋
+
+**Master’s Student · Computational Technologies · NEFU**
+
+Scientific Computing · Numerical Methods · Scientific Machine Learning
 
 ---
 
-## 🚀 Selected Projects
-- **[inverse-parabolic-coefficient-recovery](https://github.com/Egoriy286/inverse-parabolic-coefficient-recovery)** — Coefficient recovery in 2D parabolic PDE (FEM + FEniCSx)
-- **[multiscale-fem-scattering](https://github.com/Egoriy286/multiscale-fem-scattering)** — GMsFEM for scattering in heterogeneous media
-- **[FBPINN-scattering](https://github.com/Egoriy286/FBPINN-scattering)** — FBPINNs for wave scattering
-- **[PINN-eikonal](https://github.com/Egoriy286/PINN-eikonal)** — PINNs for the Eikonal equation
-- **[transformer-from-scratch-jax](https://github.com/Egoriy286/transformer-from-scratch-jax)** — Transformer in JAX
+## 🔬 Research & Methods
 
----
-
-## 🛠️ Stack
-**Scientific Computing:** Python · NumPy · SciPy · FEniCSx/DOLFINx · PETSc  
-**ML:** JAX · PyTorch · TensorFlow  
-**Methods:** FEM · PINNs · FBPINNs · Inverse Problems
+**Numerical Methods:** FEM · Spectral Methods · Inverse Problems
+**Scientific ML:** PINNs · FBPINNs · Deep Learning
+**PDEs & Physics:** Wave Propagation · Inverse Scattering · Heterogeneous Media
+**Computing:** Python · JAX · PyTorch · FEniCSx · PETSc
 
 ---
 
 ## 🌱 Exploring
-FEM · Inverse Scattering · Spectral Analysis · Spectral Neural Operator
+
+Multiscale Methods · Spectral Neural Operators · Differentiable Scientific Computing · Complex Operators · Quantum Computing
 
 ---
 
 ## 📫 Connect
+
 [GitHub](https://github.com/Egoriy286)
