@@ -2,37 +2,25 @@
 
 **Master’s Student · Computational Technologies · NEFU**
 
-**High-Performance Physics-Informed ML**  
-Scientific Computing · Numerical Methods · Scientific Machine Learning
+Physics-Informed ML · Numerical PDEs · Scientific Computing
 
 ---
 
 ## 🔬 Research
 
-My research focuses on combining **physics-informed machine learning with high-performance numerical methods** for solving and modeling PDEs.
+I work at the intersection of **machine learning and numerical methods for PDEs**.
 
-- **Physics-Informed ML:** PINNs · FBPINNs · Deep Learning
+- **Scientific ML:** PINNs · FBPINNs · Operator Learning
 - **Numerical Methods:** FEM · Spectral Methods · Inverse Problems
-- **PDEs & Physics:** Wave Propagation · Inverse Scattering · Heterogeneous Media
-- **Scientific Computing:** Differentiable Solvers · Operator Learning · Multiscale Methods
-
----
-
-## ⚙️ Tools & Technologies
-
-**Languages:** Python · C++ · LaTeX
-
-**ML:** JAX · PyTorch
-
-**Scientific Computing:** FEniCSx · PETSc · NumPy · SciPy
-
-**Computing:** GPU Computing · Parallel Computing · High-Performance Computing
+- **PDEs:** Wave Propagation · Inverse Scattering · Heterogeneous Media
+- **Computing:** JAX · PyTorch · FEniCSx · PETSc · GPU Computing
 
 ---
 
 ## 🌱 Exploring
 
-Spectral Neural Operators · Multiscale Modeling · Differentiable Scientific Computing · Complex-Valued Operators · Quantum Computing
+Multiscale Methods · Neural Operators · Differentiable Scientific Computing  
+Complex-Valued Operators · High-Performance Computing · Quantum Computing
 
 ---
 
